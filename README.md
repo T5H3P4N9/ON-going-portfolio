@@ -26,9 +26,9 @@ Hi! I’m **Tshepang Oliver**, a frontend developer in training with a passion f
 
 ## 📸 Preview
 
-![Portfolio Screenshot](preview1(1).png)  
-![Portfolio Screenshot](preview1(2).png)  
-![Portfolio Screenshot](preview2(1).png)  
+![Portfolio Screenshot](preview1.png)  
+![Portfolio Screenshot](preview2.png)  
+![Portfolio Screenshot](preview4.png)  
 ![Portfolio Screenshot](preview3.png)  
 
 
