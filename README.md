@@ -1,63 +1,54 @@
-# Tshepang Oliver – Frontend Developer Portfolio
+# Tshepang Oliver – Software Developer Portfolio
 
-This is my personal developer portfolio, built using **HTML**, **CSS**, and **JavaScript**. It showcases who I am, what I’ve learned, and the projects I’m working on during my journey through the **FNB App Academy 2025**, powered by IT varsity.
+This is my personal developer portfolio built using **HTML**, **CSS**, and **JavaScript**. It showcases my skills, projects, and growth as a **Software Developer student at IT Varsity**.
 
-## 🧑‍💻 About Me
+The portfolio highlights real-world projects involving web development, backend systems, and basic AI/IoT integrations.
 
-Hi! I’m **Tshepang Oliver**, a frontend developer in training with a passion for clean, responsive design. I’m currently completing the FNB App Academy, where I’m gaining hands-on experience in:
+---
 
-- HTML5
-- CSS3 (Flexbox, Grid, Animations)
-- Git & GitHub
-- Modern Web Development Practices
+##  About Me
 
-## 🎯 Project Features
+Hi, I’m **Tshepang Oliver**, an aspiring Software Developer from South Africa.
 
-- ✅ Responsive Navigation Bar
-- ✅ Animated buttons and blur effects
-- ✅ Social media links and downloadable CV
-- ✅ Clean layout and semantic structure
+I am currently studying at **IT Varsity**, where I am building practical skills in software development through hands-on projects and real-world problem solving.
 
-## 🛠️ Technologies Used
+I focus on:
 
-- HTML5
-- CSS3
-- Font Awesome (for icons)
+- Web development using HTML, CSS, and JavaScript  
+- Python programming for backend development  
+- Building real-world applications and systems  
+- Learning modern software development practices  
 
-## 📸 Preview
+I enjoy creating clean, responsive, and functional applications that solve real problems and demonstrate continuous learning.
+
+---
+
+##  Project Features
+
+- Responsive multi-page portfolio website  
+- Project showcase with live demos and GitHub links  
+- Contact form with email integration  
+- Clean UI with modern glassmorphism design  
+- Mobile-friendly responsive layout  
+
+---
+
+##  Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Font Awesome (icons)  
+
+---
+
+##  Preview
 
 ![Portfolio Screenshot](preview1.png)  
 ![Portfolio Screenshot](preview2.png)  
-![Portfolio Screenshot](preview4.png)  
 ![Portfolio Screenshot](preview3.png)  
-
-
-## 📂 Folder Structure
-
-
-## 📇 Author
-
-**Tshepang Oliver**  
-Frontend Developer | FNB App Academy 2025  
-- 🔗 [GitHub](https://github.com/T5H3P4N9)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tshepang-oliver-3a5540205/)
-- 📧 [Email](mailto:olivertshepang@gmail.com)
+![Portfolio Screenshot](preview4.png)  
 
 ---
 
-### 🚀 Deployment
 
-You can deploy this site easily using:
-
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://netlify.com/)
-- [Vercel](https://vercel.com/)
-
----
-
-Would you like me to help you:
-- Generate the preview image/banner?
-- Host the site live on GitHub Pages?
-- Polish your LinkedIn post once it's ready?
-
-Let’s launch your portfolio the right way.
